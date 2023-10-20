@@ -1,6 +1,6 @@
 # bishokarma_kaur-midterm
 In class midterm assignment.
- <img id="cats and dogs" src="images/istockphoto-992637094-1024x1024.jpg> 
+ <img id="cats and dogs" src="images/istockphoto-992637094-1024x1024.jpg"> 
 
 <title>Cat Vs Dog Debate</title>
 </head>
